@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: math-4-help
+    name: mathelpmepls1
     env: docker
     plan: free
